@@ -5,8 +5,8 @@ public class Main {
 
         System.out.println("Hello world from krati mandloi and Aryan Rajput");
 
-        System.out.println("Hello world from krati mandloi");
-       
+   
+
 
     }
 }
