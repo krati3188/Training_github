@@ -9,5 +9,6 @@ public class Main {
         System.out.println("new edited file");
 System.out.println("updated 1");
         System.out.println("updated 2");
+        System.out.println("updated 3");
     }
 }
