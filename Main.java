@@ -6,9 +6,7 @@ public class Main {
         System.out.println("Hello world from krati mandloi and Aryan Rajput");
 
         System.out.println("Hello world from krati mandloi");
-        System.out.println("new edited file");
-System.out.println("updated 1");
-        System.out.println("updated 2");
-        System.out.println("updated 3");
+       
+
     }
 }
